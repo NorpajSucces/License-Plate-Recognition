@@ -1,0 +1,12 @@
+# venv
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# model weights
+models/*.pt
+
+# outputs
+data/outputs/*.csv
